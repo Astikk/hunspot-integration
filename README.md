@@ -1,4 +1,4 @@
-# HubSpot Integration – Technical Assessment
+# HubSpot Integration
 
 This project demonstrates a basic integration with the [HubSpot API](https://developers.hubspot.com/docs/api/overview), including features such as authentication, contact creation, and data syncing.
 
